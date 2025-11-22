@@ -1,0 +1,8 @@
+name,unit,category,brand,stock,status,image
+Laptop,unit,Electronics,Dell,50,Active,https://example.com/laptop.jpg
+Mouse,unit,Electronics,Logitech,200,Active,https://example.com/mouse.jpg
+Keyboard,unit,Electronics,Microsoft,150,Active,https://example.com/keyboard.jpg
+Monitor,unit,Electronics,Samsung,75,Active,https://example.com/monitor.jpg
+Headphones,unit,Electronics,Sony,100,Active,https://example.com/headphones.jpg
+
+
