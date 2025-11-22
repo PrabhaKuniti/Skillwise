@@ -73,6 +73,7 @@ npm run dev
 ```
 
 The backend server will run on `http://localhost:5000`
+Deployed URL of backend is `https://skillwise-zli0.onrender.com`
 
 ### Frontend Setup
 
@@ -92,6 +93,7 @@ npm start
 ```
 
 The frontend will run on `http://localhost:3000`
+Deployed URL of Frontend is `https://skillwise-vert.vercel.app`
 
 ## API Endpoints
 
